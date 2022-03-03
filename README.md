@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @TVittorio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in c/c++ programing, video games and anything AWESOME!
+- 🌱 I’m currently learning Houdini Vex and VFX in general
+--------------------------------------------------------------------------------
+- 📫 write.vt@gmail.com 
+-    www.linkedin.com/in/vittorio-troia-88b940232
 
-<!---
-TVittorio/TVittorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    
+
+
