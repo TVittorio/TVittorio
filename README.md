@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Houdini Vex and VFX in general
 --------------------------------------------------------------------------------
 - 📫 write.vt@gmail.com 
--    www.linkedin.com/in/vittorio-troia-88b940232
+-    www.linkedin.com/in/vittorio-troia-SwDev
+
 
     
 
